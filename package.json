@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "prebuild": "mkdir -p _site",
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  }
+}
