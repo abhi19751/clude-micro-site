@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhi19751/micro-site.git"
+    "url": "git+https://github.com/abhi19751/clude-micro-site.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abhi19751/micro-site.git"
+    "url": "https://github.com/abhi19751/clude-micro-site.git"
   },
   "homepage": "https://github.com/abhi19751/micro-site.git#readme",
   "devDependencies": {
